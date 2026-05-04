@@ -1,3 +1,6 @@
+## 🔴 LIVE DEMO: https://rtb-intelligence.onrender.com
+
+
 # ◈ RTB Campaign Intelligence Dashboard
 
 > A production-grade programmatic advertising analytics system built for a mobile DSP (demand-side platform). Analyzes 500K+ bid-level events across the full RTB funnel — from auction entry to install — with AI-powered campaign briefs, statistical anomaly detection, and actionable optimization insights.
